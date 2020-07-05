@@ -1,2 +1,2 @@
-a = 'Yes it is a leap year'
-b = 'No it is not a leap year'
+ly = 'Yes it is a leap year'
+nly = 'No it is not a leap year'
